@@ -1,0 +1,5 @@
+<root>
+    <item name='com.here.android.mpa.mapping.SupportMapFragment'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
